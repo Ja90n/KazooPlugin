@@ -1,0 +1,4 @@
+name: KazooPlugin
+version: '${project.version}'
+main: com.blub.kazoo.Kazoo
+api-version: 1.18
